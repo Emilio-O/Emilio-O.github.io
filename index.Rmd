@@ -1,0 +1,84 @@
+---
+title: "Emilio Ortiz Avila"
+image: "Emilio_ProfilePic.jpeg"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/in/emilio-ortiz-avila-22b6b7340/"
+  - label: '`r fontawesome::fa(name = "x-twitter", fill = "steelblue")` Twitter'
+    url: "https://x.com/remi_chefcito"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/Emilio-O/"
+  - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
+    url: "https://www.researchgate.net/profile/Emilio-Ortiz-Avila-2"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` aeortiz06@gmail.com'
+    url: "aeortiz06@gmail.com"
+ #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+  #  url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+output:
+  postcards::solana
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+## 🌱 Bio
+
+Hi! I’m Emilio, a microbiologist focused on bioinformatics, transcriptomics, and computational biology.
+
+My academic work has centered on the analysis of RNA-seq data in non-model organisms. During my thesis work at the **National Autonomous University of Mexico (UNAM)**, I studied differential gene expression associated with the regenerative response of the terrestrial gastropod Deroceras laeve. This project allowed me to strengthen my experience in transcriptomic workflows, omics data analysis, and reproducible computational approaches for biological research.
+
+Beyond research, I have been involved in teaching, bioinformatics training, and scientific outreach. I have contributed to the development of learning materials and the organization of academic activities for students beginning in computational biology.
+
+I am also part of **ISCB RSG-Mexico**, where I participate in community-driven initiatives related to bioinformatics education, workshops, symposia, journal clubs, and outreach activities.
+
+Currently, I continue expanding my skills in bioinformatics, computational biology, Python, and data analysis through research, teaching, training programs, and collaborative academic communities.
+
+##  Education
+
+**B.Sc. in Microbiology** | Universidad Autónoma de Querétaro (UAQ), Mexico
+
+**Undergraduate Thesis** | Instituto de Neurobiología (INB), UNAM 
+
+**Thesis title:** Ensamblaje transcriptómico de novo y análisis de expresión diferencial durante la regeneración en *Deroceras laeve*.
+
+##  Experience
+
+**Research intern** | Universidad Nacional Autónoma de México (UNAM)
+
+Research focused on RNA-seq analysis, differential expression, and transcriptomic workflows in the terrestrial gastropod Deroceras laeve.
+
+**Instructor and Organizer** | Postgraduate College
+
+Taught R and Bash for bioinformatics and contributed to the development of course materials and tutorials.
+
+**Member** | ISCB RSG-Mexico
+
+Supporting educational initiatives, workshops, symposia, journal clubs, and outreach activities in bioinformatics.
+
+##  Repository Contributions
+
+### Thesis Project
+
+- COMMING SOON!
+
+### Collaborative Work
+
+- [Workshop Repository](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2025)
+
+Educational materials and exercises developed for bioinformatics training activities.
+
+##  Technical Skills
+
+- Transcriptomics & RNA-seq analysis
+- Differential expression analysis
+- Bioinformatics: DESeq2, Trinity
+- Data analysis in R
+- Bash
+- Basic Python for data analysis
+- Git & GitHub
+
+##  Interests
+
+Bioinformatics • Computational Biology • Transcriptomics • RNA-seq Analysis • Omics Data Analysis • Differential Gene Expression • Regeneration Biology • Molecular Biology • Scientific Education
